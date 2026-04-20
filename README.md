@@ -1,1 +1,1 @@
-A Java practice repository that includes examples of core Java concepts such as collections framework, multithreading, streams, file handling, and HashMap. This programs are used for understanding and practicing Java fundamentals.
+This repository contains my Java practice programs while learning core Java concepts like collections, multithreading, streams, file handling, HashMap, and JDBC with MySQL.
